@@ -41,7 +41,7 @@ All solutions are implemented in **Python 3** with clear logic and comments wher
 
 ---
 
-## 👨‍💻 Solved By
+##  Solved By
 **Adit Mugdha Das**  
 B.Sc. in Computer Science & Engineering  
 Khulna University of Engineering & Technology (KUET)  
